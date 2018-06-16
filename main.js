@@ -73,4 +73,4 @@ class PopUpInfo extends HTMLElement {
   }
 
   // Define the new element
-    customElements.define('popup-info', PopUpInfo);
+  customElements.define('popup-info', PopUpInfo);
